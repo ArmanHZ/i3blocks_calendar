@@ -23,8 +23,9 @@ interval=1
 
 # How it looks
 Click the Calendar emoji for the script to work. If emojis are not installed, you can change it to text. It should still work.
-![GitHub initial](initial_state.png)
-![GitHub click](clicked.png)
+
+![initial state](initial_state.png)
+![clicked](clicked.png)
 
 # Todo
 * Clean the code
